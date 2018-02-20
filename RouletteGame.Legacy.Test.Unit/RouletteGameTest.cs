@@ -10,6 +10,7 @@ namespace RouletteGame.Legacy.Test.Unit
     public class RouletteGameTest
     {
         //test
-        [TestCase]
+        
+
     }
 }
